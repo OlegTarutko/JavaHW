@@ -1,4 +1,4 @@
-package Sem3;
+package s3;
 
 import java.util.ArrayList;
 import java.util.ListIterator;
